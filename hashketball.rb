@@ -10,7 +10,8 @@ def game_hash
         ["Black","White"]
       },
       :players => {
-        [  {  
+        [  
+          {  
                  } ]
         
         
