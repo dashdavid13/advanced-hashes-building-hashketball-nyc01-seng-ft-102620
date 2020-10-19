@@ -85,7 +85,7 @@ def game_hash
              :slam_dunks => 1
         },
         {
-          :player_name => "Jason Terry"
+          :player_name => "Bismack Biyombo"
              :number => 31
              :shoe => 15
              :points => 19
