@@ -11,7 +11,14 @@ def game_hash
       },
       :players => {
         [  
-          {  :player_name 
+          {  :player_name => "Alan Anderson"
+             :shoe =>
+             :points
+             :rebounds
+             :assists
+             :steals
+             :blocks
+             :slam_dunks
                  } ]
         
         
