@@ -4,7 +4,7 @@ def game_hash
   final_hash = {
     :home => {
       :team_name =>{
-        
+        "Brooklyn Nets"
       },
       :colors => {
         
@@ -15,7 +15,7 @@ def game_hash
     },
     :away => {
       :team_name =>{
-        
+        ""
       },
       :colors => {
         
