@@ -39,7 +39,7 @@ def game_hash
              :slam_dunks =>
               
             },
-            {:player_name => "Alan Anderson"
+            {:player_name => "Mason Plumlee"
              :shoe => 16
              :points => 22
              :rebounds => 12
