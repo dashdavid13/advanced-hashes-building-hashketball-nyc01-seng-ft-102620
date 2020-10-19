@@ -74,7 +74,7 @@ def game_hash
       },
       :players => {
         [ {
-          :player_name => "Jason Terry"
+          :player_name => "Jeff Adrien"
              :number => 31
              :shoe => 15
              :points => 19
